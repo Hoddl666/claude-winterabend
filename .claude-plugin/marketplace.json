@@ -1,0 +1,5 @@
+{
+  "name": "claude-winterabend",
+  "owner": { "name": "Hoddl666" },
+  "plugins": [{ "name": "winterabend", "source": "./" }]
+}

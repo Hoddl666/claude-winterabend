@@ -1,0 +1,6 @@
+{
+  "name": "winterabend",
+  "version": "0.1.1",
+  "description": "Weihnachtliche Winternacht hinter dem Chat: Rotkehlchen-Schild mit Kontext, Cache und Nutzungslimits live, Christbaum, Hütte, Mond und Schnee.",
+  "types": "./types/index.d.ts"
+}
